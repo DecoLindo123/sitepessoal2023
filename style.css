@@ -1,0 +1,21 @@
+#img
+{
+    border-radius: 50px;
+    width: 200px;
+}
+.imagem
+{
+    width: 200px;
+    border-radius: 50px;
+    height: 200px;
+}
+#corpo
+{
+    background-size: cover;
+    color: white;
+}
+
+.titulo
+{
+    font-family: 'Shadows Into Light', cursive;
+}
